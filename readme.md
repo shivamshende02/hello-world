@@ -1,11 +1,11 @@
 # Hello World
 
-Hello World in every computer language.
+Hello World in all computer language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute; new languages are created every day!
 
-Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
+Make sure to see [contributing.md](/contributing.md) file for instructions on contributing to the project!
 
 <!--Languages start-->
 ## Languages (1005 total)
